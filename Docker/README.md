@@ -102,7 +102,7 @@ sudo docker build --no-cache -t frontend-app .
 
 <h2 style="font-size:22px;">Author</h2>
 <p style="font-size:16px;">
-Behera Samira Patnaik<br>
+Potnuru Amrutha<br>
 BTech ECE | Cloud and DevOps Enthusiast
 </p>
 
